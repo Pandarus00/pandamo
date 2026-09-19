@@ -1,0 +1,15 @@
+{
+  "name": "Pandamo – Find your calm.",
+  "short_name": "Pandamo",
+  "description": "Sanfte tägliche Bewegung, Yoga und Laufbegleitung.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6ead8",
+  "theme_color": "#536f3f",
+  "orientation": "portrait-primary",
+  "icons": [
+    { "src": "assets/icon.png", "sizes": "180x180", "type": "image/png", "purpose": "any maskable" },
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
